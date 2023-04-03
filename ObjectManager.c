@@ -1,4 +1,4 @@
-//The program below illustrates a Garbage Collection Programme.
+//The program below illustrates an Automatic memory manager program.
 //Most of the tests are also written below
 
 #include <stdlib.h>
